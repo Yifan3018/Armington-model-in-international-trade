@@ -5,8 +5,8 @@ In this problem you are asked to solve comparative statics exercises using the D
 
 <ol type="a"> 
 <li> Assume that the only shock is the elimination of trade deficits, $\hat D_n = 0$. What are the implications of this on relative and real wages? (Hint: in spite of trade deficits, real wages are still given by $w_j/P_j = T_j^{-1/\theta} \lambda_{jj}^{-1/\theta}$. Use the resulting "data set" with no deficits to do the following exercises. </li>
-<li> Assume that there are 30\% tariffs among all countries. What happens if tariffs are removed across all countries? What happens to relative wages, real
+<li> Assume that there are 30/% tariffs among all countries. What happens if tariffs are removed across all countries? What happens to relative wages, real
 wages and real income? Can you make sense of these results? </li>
-<li> What happens if, starting from the common 30\% tariffs, the US and
+<li> What happens if, starting from the common 30/% tariffs, the US and
 Canada sign a FTA, lowering the tariffs on each other to zero? </li>
 </ol>
